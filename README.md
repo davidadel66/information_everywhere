@@ -1,5 +1,3 @@
-# information_everywhere
-
 # Learning Path: Information Retrieval (IR)
 
 ## 1. Fundamentals
